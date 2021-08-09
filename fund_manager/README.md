@@ -7,7 +7,7 @@
 
 `funds.py` - 基金经理管理的基金和概览
 
-`fund_position` - 基金经理持仓信息、规模等信息
+`fund_position.py` - 基金经理持仓信息、规模等信息
 
 ## clean
 
